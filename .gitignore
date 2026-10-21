@@ -1,0 +1,13 @@
+# Build output
+snake
+*.o
+*.out
+*.exe
+build/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
